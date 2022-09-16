@@ -6,7 +6,7 @@
 
 Projeto construído no evento "Next Level Week" da RocketSeat.
 
-[Clique aqui para acessar](https://elinhopg.github.io/nlw-esports-explorer-desafio-extra/)
+[Clique aqui para acessar](https://elinhopg.github.io/nlw-esports-desafio-extra/)
 
 ## Tecnologias 
 
