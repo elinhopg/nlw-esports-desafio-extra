@@ -23,8 +23,7 @@ body * {
 
 header {
     padding-top: 32px;
-    height: calc(120px + 32px);
-    margin-left: 32px;
+    height:  calc(120px + 32px);
 }
 
 header div {
@@ -91,10 +90,6 @@ section ul {
     gap: 16px;
 
     margin-top: 24px;
-}
-
-section .trilogy-list {
-    flex-wrap: nowrap;
 }
 
 section ul li {
